@@ -4,4 +4,5 @@ A Signals and Systems (ECE280) in which MATLAB and sinusoidal manipulation was u
 - The song chosen for this project is Redbone by Childish Gambino. 
 - This project needed to produce a .wav file that is 30-60 seconds in length.
 - Helper methods myBeat and myNote were constructed for this project. 
-- This repository includes a final report on the project.
+- This repository includes a final report on the project, the final .wav file.
+- The project file is under the name awakenMyLove.m, after the album in which Redbone was in.
